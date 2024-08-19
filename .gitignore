@@ -1,0 +1,10 @@
+# Ignore everything:
+*
+
+!.gitignore
+
+# nvim
+!nvim/*
+!nvim/**
+!nvim
+nvim/lazy-lock.json
